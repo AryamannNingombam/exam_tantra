@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164717273487",
+    "project_id": "examtantra-89ee0",
+    "storage_bucket": "examtantra-89ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164717273487:android:47baa06ec191593f1d2bfa",
+        "android_client_info": {
+          "package_name": "com.examtanrta.cod3ine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164717273487-ob12hdvg48cuepj5t69og50kc28pn626.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGgyIHPa5KAxPHC55YNLj4YBHmnQ79QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164717273487-ob12hdvg48cuepj5t69og50kc28pn626.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

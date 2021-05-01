@@ -13,7 +13,7 @@ class LandingPage extends StatelessWidget {
              image: DecorationImage(
                  image: AssetImage("images/homepage-background.jpg"),
                  fit: BoxFit.cover)),
-         
+
        ),
     );
   }
